@@ -1,4 +1,6 @@
-  ![](https://komarev.com/ghpvc/?username=dpm24800)
+![](https://komarev.com/ghpvc/?username=dpm24800)  
+## Hi, I'm Dipak Pulami Magar ![](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
+  
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dpm24800 &label=Profile%20views&color=0e75b6&style=flat" alt="dpm24800" /> </p>
   <h2>Hi, I'm Dipak Pulami Magar<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
