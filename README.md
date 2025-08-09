@@ -1,15 +1,15 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=tajamulkhann&label=Profile%20views&color=0e75b6&style=flat" alt="tajamulkhann" /> </p>
-  <h2>Hi, I'm Tajamul Khan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
+  <h2>Hi, I'm Dipak Pulami Magar<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
   <h4><img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=19&center=true&vCenter=true&width=700&height=24&lines=Data+Scientist,+Mentor+and+a+Content+Creator+🎬"></h4>
   
-  <a href="https://www.linkedin.com/in/tajamulkhann/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://www.instagram.com/tajamulkhannn/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/dpm24800/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.instagram.com/dpm.it24800/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://substack.com/@tajamulkhan"><img src="https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719"></a>
   <a href="https://medium.com/@tajamulkhan"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
   <a href="https://www.kaggle.com/tajamulkhan"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></a>
   <a href="https://www.youtube.com"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-  <a href="https://github.com/tajamulkhann"><img src="https://img.shields.io/badge/Github-12100E?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/dpm24800"><img src="https://img.shields.io/badge/Github-12100E?style=for-the-badge&logo=github&logoColor=white"></a>
   
 
 <div style="text-align: center;">
