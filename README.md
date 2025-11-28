@@ -3,7 +3,6 @@
 <!-- <h3 align="center">💻 Data Science  and AI Enthusiast | 🔗 Blockchain Explorer | 🚀 Backend Engineer</h3> -->
 
 <p align="center">
-  https://komarev.com/ghpvc/?username=dpm24800
 <img src="https://komarev.com/ghpvc/?username=dpm24800&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 <!-- <img src="https://komarev.com/ghpvc/?username=everestp&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/> -->
 </p>
@@ -23,10 +22,10 @@
 
 🔗 Let's Connect
 <p align="center">
-<a href="https://linkedin.com/in/everestp" target="_blank">
+<a href="https://linkedin.com/in/dpm24800" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.leetcode.com/everestp" target="_blank">
+<a href="https://www.leetcode.com/dpm24800" target="_blank">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 </p>
