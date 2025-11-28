@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Dipak Pulami Magar</h1>
-<h3 align="center">💻 Data Science  and AI Enthusiast</h3>
+<h3 align="center">💻 Data Science and AI Enthusiast</h3>
 <!-- <h3 align="center">💻 Data Science  and AI Enthusiast | 🔗 Blockchain Explorer | 🚀 Backend Engineer</h3> -->
 
 <p align="center">
@@ -12,13 +12,13 @@
 </p>
 
 🌱 About Me
-🚀 Passionate about building decentralized applications and automating infrastructure with Node.js, Express.js, and DevOps practices.
+<!--🚀 Passionate about building decentralized applications and automating infrastructure with Node.js, Express.js, and DevOps practices. -->
 
-🔍 Exploring the intersection of Web3, Blockchain, and Cloud Computing.
+🔍 Exploring the intersection of Data Science, Machine Learning and Deep Learning.
 
-💬 Love discussing Rust, React, Solana, and CI/CD tools.
+💬 Love discussing Data Science and Machine Learning.
 
-📫 Reach me at: paudeleverest09@gmail.com
+📫 Reach me at: dpm.it24800@gmail.com
 
 🔗 Let's Connect
 <p align="center">
