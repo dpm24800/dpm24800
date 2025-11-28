@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Dipak
+# Hi there 👋, I'm Dipak Pulami Magar
 ## Data Science Learner | ML Enthusiast | Aspiring AI Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dpm24800&color=0e75b6&style=flat)
