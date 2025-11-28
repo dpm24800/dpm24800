@@ -1,18 +1,7 @@
----
-layout: post
-title: New Account
-author: Dipak Pulami Magar
-date :  2025-11-28 20:12:45 +0545
-categories: sql
-status: draft
----
-
-
 # Hi there 👋, I'm Dipak
 ## Data Science Learner | ML Enthusiast | Aspiring AI Engineer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dpm24800&color=0e75b6&style=flat)
-![Profile Views](https://komarev.com/ghpvc/?username=dpm24800&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
@@ -43,10 +32,10 @@ I'm a passionate **Data Science learner** currently building my foundation in **
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-339933?style=for-the-badge)
 
 #### Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"  title="VS Code"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" title="Jupyter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" title="Jupyter"/> -->
 
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -61,6 +50,20 @@ I'm a passionate **Data Science learner** currently building my foundation in **
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dpm24800&theme=radical)
 ![Top Languages]("https://github-readme-stats.vercel.app/api/top-langs/?username=dpm24800&layout=compact&theme=radical)
 ---
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dpm24800&show_icons=true&theme=radical" alt="Dipak Pulami Magar's GitHub Stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dpm24800&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpm24800&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+--- 
 
 ### 📂 Projects & Learning Highlights
 I am currently working on beginner-friendly **Data Science projects** to apply my skills:  
