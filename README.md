@@ -11,7 +11,8 @@ status: draft
 # Hi there 👋, I'm Dipak
 ## Data Science Learner | ML Enthusiast | Aspiring AI Engineer
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=dpm24800&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=dpm24800&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 
