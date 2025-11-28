@@ -54,15 +54,15 @@ I have hands-on experience in building on the Solana blockchain, using Rust for 
 
 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=everestp&show_icons=true&theme=radical" alt="Everest's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=dpm24800&show_icons=true&theme=radical" alt="Everest's GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=everestp&theme=radical" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dpm24800&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=everestp&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpm24800&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 🧠 Fun Fact
