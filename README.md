@@ -51,9 +51,9 @@ I'm a passionate **Data Science learner** currently building my foundation in **
 <img src="https://github-readme-stats.vercel.app/api?username=dpm24800&show_icons=true&theme=radical" alt="Dipak Pulami Magar's GitHub Stats" />
 </p>
 
-<!-- <p align="center">
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dpm24800&theme=radical" alt="GitHub Streak" />
-</p> -->
+</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpm24800&layout=compact&theme=radical" alt="Top Languages" />
