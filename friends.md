@@ -1,6 +1,5 @@
 
 ## Sis. Ashira
-![Profile Views](https://komarev.com/ghpvc/?username=ashira-maharjan&color=0e75b6&style=flat)
 #### 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ashira-maharjan&show_icons=true&theme=radical" alt="Dipak Pulami Magar's GitHub Stats" />
@@ -19,7 +18,6 @@
 ---
 
 ## SanjayBista1010
-![Profile Views](https://komarev.com/ghpvc/?username=SanjayBista1010&color=0e75b6&style=flat)
 #### 📊 GitHub Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=SanjayBista1010&show_icons=true&theme=radical" alt="Dipak Pulami Magar's GitHub Stats" />
