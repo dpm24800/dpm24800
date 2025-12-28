@@ -47,6 +47,12 @@ I'm a passionate **Data Science learner** currently building my foundation in **
 ---
 
 #### 📊 GitHub Stats
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dpm24800&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dpm24800&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dpm24800&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dpm24800&show_icons=true&theme=radical" alt="Dipak Pulami Magar's GitHub Stats" />
 </p>
