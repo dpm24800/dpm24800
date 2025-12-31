@@ -47,13 +47,11 @@ I'm a passionate **Data Science learner** currently building my foundation in **
 ---
 
 #### 📊 GitHub Stats
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dpm24800&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dpm24800&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dpm24800&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dpm24800&show_icons=true&theme=radical" alt="Dipak Pulami Magar's GitHub Stats" />
 </p>
 
@@ -63,18 +61,27 @@ I'm a passionate **Data Science learner** currently building my foundation in **
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpm24800&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+</p> -->
 
 --- 
 
 ### 📂 Projects & Learning Highlights
 I am currently working on beginner-friendly **Data Science projects** to apply my skills:  
 
-| Project | Description | Tools |
+<!-- | Project | Description | Tools |
 |---------|-------------|-------|
 | **EDA Projects** | Exploring datasets and visualizing patterns | Python, Pandas, Matplotlib, Seaborn |
 | **SQL Analysis** | Querying databases to extract insights | SQL, MySQL/PostgreSQL |
-| **Python Mini Projects** | Small Python scripts and automation tasks | Python, Jupyter Notebook |
+| **Python Mini Projects** | Small Python scripts and automation tasks | Python, Jupyter Notebook | -->
+
+| Project                       | Description                                                   | Tools                            |
+| ----------------------------- | ------------------------------------------------------------- | -------------------------------- |
+| **[Web Scraping & Automation](https://github.com/dpm24800/top-jobs-scraper)** | Scrapes job listings, deduplicates, sorts, and exports to CSV | Python, Selenium, GitHub Actions |
+| **[Job Market EDA](https://github.com/dpm24800/web_scrapping-data_analysis)**            | Clean, visualize job data for insights                        | Pandas, Matplotlib, Seaborn      |
+| **[YouTube Playlist Exporter](https://github.com/dpm24800/youtube-playlist-exporter)** | CLI tool to extract and export playlist metadata              | Python, yt‑dlp                   |
+| **[Text Files Merger](https://github.com/dpm24800/text-files-merger)**         | Browser app to merge TXT files without installs               | HTML, CSS, JS                    |
+| **[Image Slider UI](https://github.com/dpm24800/image-slider)**           | TikTok‑style image slider interface                           | JavaScript, HTML, CSS            |
+
 
 > More projects will be added as I progress on my **Data Science and ML journey**.
 
