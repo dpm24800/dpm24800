@@ -76,6 +76,8 @@ I am currently working on beginner-friendly **Data Science projects** to apply m
 
 | Project                       | Description                                                   | Tools                            |
 | ----------------------------- | ------------------------------------------------------------- | -------------------------------- |
+| **[Student Performance Predictor](https://github.com/dpm24800/e2e-ml-project)** *(End-to-End ML)* | Predicts students' math scores using demographic & academic attributes; complete pipeline with EDA, feature engineering, CatBoost/XGBoost training, model serialization, and dual deployment (Flask API + Streamlit UI) | Pandas, Scikit-learn, CatBoost, XGBoost, Flask, Streamlit, Altair |
+| **[project-scaffolder](https://github.com/dpm24800/project-scaffolder)** *[(Python Package)](https://pypi.org/project/project-scaffolder/)* | CLI tool that generates project folder structures from tree-style text files—published on PyPI for rapid, consistent project setup | Python, Click, setuptools |
 | **[Web Scraping & Automation](https://github.com/dpm24800/top-jobs-scraper)** | Scrapes job listings, deduplicates, sorts, and exports to CSV | Python, Selenium, GitHub Actions |
 | **[Job Market EDA](https://github.com/dpm24800/web_scrapping-data_analysis)**            | Clean, visualize job data for insights                        | Pandas, Matplotlib, Seaborn      |
 | **[YouTube Playlist Exporter](https://github.com/dpm24800/youtube-playlist-exporter)** | CLI tool to extract and export playlist metadata              | Python, yt‑dlp                   |
