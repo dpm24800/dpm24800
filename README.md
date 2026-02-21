@@ -68,26 +68,25 @@ I'm a passionate **Data Science, ML and DL Lerner** currently building my founda
 
 --- 
 
-## 📂 Projects & Learning Highlights
+# 📂 Projects & Learning Highlights
 I am currently working on beginner-friendly **Data Science projects** to apply my skills:  
 
-Below is your list updated **in the same order as before**, with the two new categories added and projects placed appropriately.
+## Deep Learning Projects
+- **[FingerCounter](repolink-needed)**
+    - Project description not provided yet.
+    - Tools: Not specified
+
+- **[OpenVisionOCR](https://github.com/dpm24800/OpenVisionOCR)**
+    - Project description not provided yet.
+    - Tools: Not specified
+
+- **[DigitDecoder](https://github.com/dpm24800/DigitDecoder)**
+    - Project description not provided yet.
+    - Tools: Not specified
 
 ---
 
-### Deep Learning Projects
-
-**[DigiVision](repolink-needed)**
-Project description not provided yet.
-Tools: Not specified
-
-**[FingerCounter](repolink-needed)**
-Project description not provided yet.
-Tools: Not specified
-
----
-
-### Machine Learning Projects
+## Machine Learning Projects
 - **[Employee Burnout Prdiction](#)**
     - dsff
     - fdfs
