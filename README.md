@@ -6,7 +6,7 @@
 ---
 
 ### About Me
-I'm a passionate **Data Science learner** currently building my foundation in **Python, NumPy, Pandas, EDA, and SQL**. My goal is to grow into a skilled **AI and Machine Learning engineer**, working on projects that turn data into actionable insights.  
+I'm a passionate **Data Science, ML and DL Lerner** currently building my foundation in **Python, NumPy, Pandas, EDA, and SQL**. My goal is to grow into a skilled **AI and Machine Learning engineer**, working on projects that turn data into actionable insights.  
 
 - 🌱 Currently learning **Machine Learning, Data Visualization, and advanced AI concepts**.  
 - 💬 Ask me about **Python, Data Analysis, SQL, or beginner-friendly ML concepts**.  
@@ -46,10 +46,13 @@ I'm a passionate **Data Science learner** currently building my foundation in **
 
 ---
 
+--->
+
 #### 📊 GitHub Stats
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=dpm24800&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dpm24800&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dpm24800&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
+![](https://nirzak-streak-stats.vercel.app/?user=dpm24800&theme=dark&hide_border=false)<br/>-->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dpm24800&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
 <!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dpm24800&show_icons=true&theme=radical" alt="Dipak Pulami Magar's GitHub Stats" />
@@ -68,19 +71,96 @@ I'm a passionate **Data Science learner** currently building my foundation in **
 ### 📂 Projects & Learning Highlights
 I am currently working on beginner-friendly **Data Science projects** to apply my skills:  
 
+Below is your list updated **in the same order as before**, with the two new categories added and projects placed appropriately.
+
+---
+
+## Deep Learning Projects
+
+**[DigiVision](repolink-needed)**
+Project description not provided yet.
+Tools: Not specified
+
+**[FingerCounter](repolink-needed)**
+Project description not provided yet.
+Tools: Not specified
+
+---
+
+## Machine Learning Projects
+
+**[Student Performance Predictor](https://github.com/dpm24800/e2e-ml-project)**
+Predicts students’ math scores using demographic and academic attributes with a complete ML pipeline including EDA, feature engineering, CatBoost and XGBoost training, model serialization, and deployment through a Flask API and a Streamlit UI.
+Tools: Pandas, Scikit-learn, CatBoost, XGBoost, Flask, Streamlit, Altair
+
+---
+
+## Data Science Projects
+
+**[Job Market EDA](https://github.com/dpm24800/web_scrapping-data_analysis)**
+Cleans and analyzes scraped job market data and produces visual insights using exploratory data analysis.
+Tools: Pandas, Matplotlib, Seaborn
+
+---
+
+## Web Scrapping Projects
+
+**[Web Scraping & Automation](https://github.com/dpm24800/top-jobs-scraper)**
+Automated web scraping pipeline that collects job listings, removes duplicates, sorts records, and exports results to CSV with scheduled execution.
+Tools: Python, Selenium, GitHub Actions
+
+---
+
+## SQL / DBMS Projects
+
+*(No SQL/DBMS-focused project in this list yet.)*
+
+---
+
+## Python Projects
+
+**[project-scaffolder](https://github.com/dpm24800/project-scaffolder)**
+CLI tool that generates project folder structures from tree-style text files and is published on PyPI for fast and consistent project setup.
+Tools: Python, Click, setuptools
+
+**[YouTube Playlist Exporter](https://github.com/dpm24800/youtube-playlist-exporter)**
+Command-line tool to extract and export YouTube playlist metadata for further processing.
+Tools: Python, yt-dlp
+
+---
+
+## Backend Projects
+
+*(No separate backend-only project in this list yet.)*
+
+---
+
+## Front End Projects
+
+**[Text Files Merger](https://github.com/dpm24800/text-files-merger)**
+Client-side web application that merges multiple TXT files directly in the browser without any installation.
+Tools: HTML, CSS, JavaScript
+
+**[Image Slider UI](https://github.com/dpm24800/image-slider)**
+TikTok-style image slider interface focused on smooth transitions and modern UI interaction.
+Tools: HTML, CSS, JavaScript
+
+
 <!-- | Project | Description | Tools |
 |---------|-------------|-------|
 | **EDA Projects** | Exploring datasets and visualizing patterns | Python, Pandas, Matplotlib, Seaborn |
 | **SQL Analysis** | Querying databases to extract insights | SQL, MySQL/PostgreSQL |
 | **Python Mini Projects** | Small Python scripts and automation tasks | Python, Jupyter Notebook | -->
 
-| Project                       | Description                                                   | Tools                            |
+<!-- | Project                       | Description                                                   | Tools                            |
 | ----------------------------- | ------------------------------------------------------------- | -------------------------------- |
+| **[Student Performance Predictor](https://github.com/dpm24800/e2e-ml-project)** *(End-to-End ML Project)* | Predicts students' math scores using demographic & academic attributes; complete pipeline with EDA, feature engineering, CatBoost/XGBoost training, model serialization, and dual deployment (Flask API + Streamlit UI) | Pandas, Scikit-learn, CatBoost, XGBoost, Flask, Streamlit, Altair |
+| **[project-scaffolder](https://github.com/dpm24800/project-scaffolder)** *[(Python Package)](https://pypi.org/project/project-scaffolder/)* | CLI tool that generates project folder structures from tree-style text files—published on PyPI for rapid, consistent project setup | Python, Click, setuptools |
 | **[Web Scraping & Automation](https://github.com/dpm24800/top-jobs-scraper)** | Scrapes job listings, deduplicates, sorts, and exports to CSV | Python, Selenium, GitHub Actions |
 | **[Job Market EDA](https://github.com/dpm24800/web_scrapping-data_analysis)**            | Clean, visualize job data for insights                        | Pandas, Matplotlib, Seaborn      |
 | **[YouTube Playlist Exporter](https://github.com/dpm24800/youtube-playlist-exporter)** | CLI tool to extract and export playlist metadata              | Python, yt‑dlp                   |
 | **[Text Files Merger](https://github.com/dpm24800/text-files-merger)**         | Browser app to merge TXT files without installs               | HTML, CSS, JS                    |
-| **[Image Slider UI](https://github.com/dpm24800/image-slider)**           | TikTok‑style image slider interface                           | JavaScript, HTML, CSS            |
+| **[Image Slider UI](https://github.com/dpm24800/image-slider)**           | TikTok‑style image slider interface                           | JavaScript, HTML, CSS            | -->
 
 
 > More projects will be added as I progress on my **Data Science and ML journey**.
