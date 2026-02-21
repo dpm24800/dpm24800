@@ -5,7 +5,7 @@
 
 ---
 
-### About Me
+## About Me
 I'm a passionate **Data Science, ML and DL Lerner** currently building my foundation in **Python, NumPy, Pandas, EDA, and SQL**. My goal is to grow into a skilled **AI and Machine Learning engineer**, working on projects that turn data into actionable insights.  
 
 - 🌱 Currently learning **Machine Learning, Data Visualization, and advanced AI concepts**.  
@@ -14,9 +14,9 @@ I'm a passionate **Data Science, ML and DL Lerner** currently building my founda
 
 ---
 
-### 🛠 Skills & Tools
+## 🛠 Skills & Tools
 
-#### Programming Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,7 +24,7 @@ I'm a passionate **Data Science, ML and DL Lerner** currently building my founda
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-#### Data Science & ML (Learning)
+### Data Science & ML (Learning)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
@@ -32,7 +32,7 @@ I'm a passionate **Data Science, ML and DL Lerner** currently building my founda
 ![EDA](https://img.shields.io/badge/EDA-FF6F61?style=for-the-badge)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-339933?style=for-the-badge)
 
-#### Tools
+### Tools
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" title="GitHub"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code"  title="VS Code"/>
@@ -48,7 +48,7 @@ I'm a passionate **Data Science, ML and DL Lerner** currently building my founda
 
 --->
 
-#### 📊 GitHub Stats
+### 📊 GitHub Stats
 <!--
 ![](https://github-readme-stats.vercel.app/api?username=dpm24800&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dpm24800&theme=dark&hide_border=false)<br/>-->
@@ -68,14 +68,14 @@ I'm a passionate **Data Science, ML and DL Lerner** currently building my founda
 
 --- 
 
-### 📂 Projects & Learning Highlights
+## 📂 Projects & Learning Highlights
 I am currently working on beginner-friendly **Data Science projects** to apply my skills:  
 
 Below is your list updated **in the same order as before**, with the two new categories added and projects placed appropriately.
 
 ---
 
-## Deep Learning Projects
+### Deep Learning Projects
 
 **[DigiVision](repolink-needed)**
 Project description not provided yet.
@@ -87,15 +87,15 @@ Tools: Not specified
 
 ---
 
-## Machine Learning Projects
+### Machine Learning Projects
 
-**[Student Performance Predictor](https://github.com/dpm24800/e2e-ml-project)**
-Predicts students’ math scores using demographic and academic attributes with a complete ML pipeline including EDA, feature engineering, CatBoost and XGBoost training, model serialization, and deployment through a Flask API and a Streamlit UI.
-Tools: Pandas, Scikit-learn, CatBoost, XGBoost, Flask, Streamlit, Altair
+**[Student Performance Predictor](https://github.com/dpm24800/e2e-ml-project)**  
+Predicts students’ math scores using demographic and academic attributes with a complete ML pipeline including EDA, feature engineering, CatBoost and XGBoost training, model serialization, and deployment through a Flask API and a Streamlit UI.  
+==Tools==: Pandas, Scikit-learn, CatBoost, XGBoost, Flask, Streamlit, Altair
 
 ---
 
-## Data Science Projects
+### Data Science Projects
 
 **[Job Market EDA](https://github.com/dpm24800/web_scrapping-data_analysis)**
 Cleans and analyzes scraped job market data and produces visual insights using exploratory data analysis.
@@ -103,7 +103,7 @@ Tools: Pandas, Matplotlib, Seaborn
 
 ---
 
-## Web Scrapping Projects
+### Web Scrapping Projects
 
 **[Web Scraping & Automation](https://github.com/dpm24800/top-jobs-scraper)**
 Automated web scraping pipeline that collects job listings, removes duplicates, sorts records, and exports results to CSV with scheduled execution.
@@ -111,13 +111,13 @@ Tools: Python, Selenium, GitHub Actions
 
 ---
 
-## SQL / DBMS Projects
+### SQL / DBMS Projects
 
 *(No SQL/DBMS-focused project in this list yet.)*
 
 ---
 
-## Python Projects
+### Python Projects
 
 **[project-scaffolder](https://github.com/dpm24800/project-scaffolder)**
 CLI tool that generates project folder structures from tree-style text files and is published on PyPI for fast and consistent project setup.
@@ -129,13 +129,13 @@ Tools: Python, yt-dlp
 
 ---
 
-## Backend Projects
+### Backend Projects
 
 *(No separate backend-only project in this list yet.)*
 
 ---
 
-## Front End Projects
+### Front End Projects
 
 **[Text Files Merger](https://github.com/dpm24800/text-files-merger)**
 Client-side web application that merges multiple TXT files directly in the browser without any installation.
