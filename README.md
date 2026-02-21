@@ -91,7 +91,7 @@ Tools: Not specified
 
 **[Student Performance Predictor](https://github.com/dpm24800/e2e-ml-project)**  
 Predicts students’ math scores using demographic and academic attributes with a complete ML pipeline including EDA, feature engineering, CatBoost and XGBoost training, model serialization, and deployment through a Flask API and a Streamlit UI.  
-==Tools==: Pandas, Scikit-learn, CatBoost, XGBoost, Flask, Streamlit, Altair
+<div style="color:red">Tools: Pandas, Scikit-learn, CatBoost, XGBoost, Flask, Streamlit, Altair</div>
 
 ---
 
