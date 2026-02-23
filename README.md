@@ -46,15 +46,15 @@ I'm a passionate **Data Science, ML and DL Lerner** currently building my founda
 
 ---
 
---->
+- -->
 
-### 📊 GitHub Stats
-<!--
+<!-- ### 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=dpm24800&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dpm24800&theme=dark&hide_border=false)<br/>-->
+![](https://nirzak-streak-stats.vercel.app/?user=dpm24800&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dpm24800&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
-<!-- <p align="center">
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dpm24800&show_icons=true&theme=radical" alt="Dipak Pulami Magar's GitHub Stats" />
 </p>
 
@@ -93,6 +93,35 @@ I am currently working on beginner-friendly **Data Science projects** to apply m
 - **[Student Performance Predictor](https://github.com/dpm24800/e2e-ml-project)**  
     - Predicts students’ math scores using demographic and academic attributes with a complete ML pipeline including EDA, feature engineering, CatBoost and XGBoost training, model serialization, and deployment through a Flask API and a Streamlit UI.  
     - Tools: Pandas, Scikit-learn, CatBoost, XGBoost, Flask, Streamlit, Altair
+
+Here is the rewritten **Projects** section for your GitHub profile. I have balanced the descriptions so they both look professional, highlighted the "Sexy UI" aspect we worked on, and organized the tools clearly.
+
+
+### [Employee Burnout AI: Wellness Predictor](https://github.com/dpm24800/employee-wellness-predictor)
+
+An end-to-end regression solution designed to monitor and predict employee burnout levels (0-100) based on work habits and lifestyle metrics. Features a sophisticated **Glassmorphic UI** and a robust pipeline that handles everything from data ingestion to real-time risk assessment.
+
+* **Key Features:** Proactive risk alerts (Low/Medium/High), automated data transformation, and dual-deployment (Flask & Streamlit).
+* **Tools:** Python, Scikit-learn, XGBoost, CatBoost, Flask, Streamlit, Pandas.
+
+### [Student Performance Predictor](https://github.com/dpm24800/student-performance-predictor)
+
+Predicts students’ math scores using demographic and academic attributes. This project implements a complete industry-standard ML lifecycle, including comprehensive EDA, feature engineering, and model serialization.
+
+* **Key Features:** Interactive data visualization, hyperparameter tuning, and a user-friendly API for instant predictions.
+* **Tools:** Pandas, Scikit-learn, CatBoost, XGBoost, Flask, Streamlit, Altair.
+
+---
+
+### 🛠️ Core Tech Stack
+
+**Languages:** Python (Advanced)
+
+**Libraries:** NumPy, Pandas, Matplotlib, Scikit-learn
+
+**Web & UI:** Flask, Streamlit, HTML5/CSS3 (Modern UI Design)
+
+**Deployment:** AWS, Community Cloud, GitHub Actions
 
 ---
 
