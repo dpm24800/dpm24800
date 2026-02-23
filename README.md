@@ -71,15 +71,6 @@ I'm a passionate **Data Science, ML and DL Learner** currently building my found
 # 📂 Projects & Learning Highlights
 I am currently working on beginner-friendly **Data Science, Machine Learning and Deep Learning Projects** to apply my skills:  
 
-## Miscellaneous AI-Related Projects
-
-### [OpenVisionOCR](https://github.com/dpm24800/OpenVisionOCR)
-An interactive OCR and translation web application for extracting text from images using region-based selection and full-image scanning. Built as a lightweight **computer vision application** with a clean, production-ready UI powered by **Streamlit** and deep-learning OCR via EasyOCR, with on-the-fly translation backed by **Google**.
-
-* **Key Features:** Google-Lens-style crop selection, full image scan mode, multi-language OCR (English, Nepali, Hindi), instant translation, one-click copy buttons, and downloadable session history (CSV).
-* **Tools:** Python, Streamlit, EasyOCR, streamlit-cropper, deep-translator, Pillow, NumPy, Pandas.
-
-
 ## Deep Learning Projects
 <!-- ## [FingerCounter](repolink-needed)
     - Project description not provided yet.
@@ -131,6 +122,17 @@ Predicts students’ math scores using demographic and academic attributes. This
 **Deployment:** AWS, Community Cloud, GitHub Actions
 
 ---
+
+## Miscellaneous AI-Related Projects
+
+### [OpenVisionOCR](https://github.com/dpm24800/OpenVisionOCR)
+An interactive OCR and translation web application for extracting text from images using region-based selection and full-image scanning. Built as a lightweight **computer vision application** with a clean, production-ready UI powered by **Streamlit** and deep-learning OCR via EasyOCR, with on-the-fly translation backed by **Google**.
+
+* **Key Features:** Google-Lens-style crop selection, full image scan mode, multi-language OCR (English, Nepali, Hindi), instant translation, one-click copy buttons, and downloadable session history (CSV).
+* **Tools:** Python, Streamlit, EasyOCR, streamlit-cropper, deep-translator, Pillow, NumPy, Pandas.
+
+---
+
 
 ## Data Science Projects
 
