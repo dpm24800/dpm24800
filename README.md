@@ -71,18 +71,26 @@ I'm a passionate **Data Science, ML and DL Learner** currently building my found
 # 📂 Projects & Learning Highlights
 I am currently working on beginner-friendly **Data Science, Machine Learning and Deep Learning Projects** to apply my skills:  
 
+## Miscellaneous AI-Related Projects
+
+### [OpenVisionOCR](https://github.com/dpm24800/OpenVisionOCR)
+An interactive OCR and translation web application for extracting text from images using region-based selection and full-image scanning. Built as a lightweight **computer vision application** with a clean, production-ready UI powered by **Streamlit** and deep-learning OCR via EasyOCR, with on-the-fly translation backed by **Google**.
+
+* **Key Features:** Google-Lens-style crop selection, full image scan mode, multi-language OCR (English, Nepali, Hindi), instant translation, one-click copy buttons, and downloadable session history (CSV).
+* **Tools:** Python, Streamlit, EasyOCR, streamlit-cropper, deep-translator, Pillow, NumPy, Pandas.
+
+
 ## Deep Learning Projects
-- **[FingerCounter](repolink-needed)**
+<!-- ## [FingerCounter](repolink-needed)
     - Project description not provided yet.
-    - Tools: Not specified
+    - Tools: Not specified -->
 
-- **[OpenVisionOCR](https://github.com/dpm24800/OpenVisionOCR)**
-    - Project description not provided yet.
-    - Tools: Not specified
+### [DigitDecoder](https://github.com/dpm24800/DigitDecoder)
+A PyTorch-powered handwritten digit recognizer that lets users **draw or upload digit images (0–9)** and predicts them using a convolutional neural network (CNN) via a simple **Streamlit** interface. Great for learning, digitization tasks, and lightweight AI demos.
 
-- **[DigitDecoder](https://github.com/dpm24800/DigitDecoder)**
-    - Project description not provided yet.
-    - Tools: Not specified
+* **Key Features:** Handwritten digit drawing canvas, image upload prediction, pre-trained CNN model, fast inference with high accuracy, modular Streamlit apps.
+* **Tools:** Python, PyTorch, Torchvision, Streamlit, NumPy, PIL.
+
 
 ---
 
@@ -126,7 +134,7 @@ Predicts students’ math scores using demographic and academic attributes. This
 
 ## Data Science Projects
 
-## [Job Market EDA](https://github.com/dpm24800/web_scrapping-data_analysis)**
+## [Job Market EDA](https://github.com/dpm24800/web_scrapping-data_analysis)
 Cleans and analyzes scraped job market data and produces visual insights using exploratory data analysis.
 Tools: Pandas, Matplotlib, Seaborn
 
@@ -134,15 +142,15 @@ Tools: Pandas, Matplotlib, Seaborn
 
 ## Web Scrapping Projects
 
-### [Top Jobs Scraper](https://github.com/dpm24800/top-jobs-scraper)**
+### [Top Jobs Scraper](https://github.com/dpm24800/top-jobs-scraper)
 Automated web scraping pipeline that collects job listings, removes duplicates, sorts records, and exports results to CSV with scheduled execution.
 Tools: Python, Selenium, GitHub Actions
 
----
+<!-- ---
 
 ### SQL / DBMS Projects
 
-*(No SQL/DBMS-focused project in this list yet.)*
+*(No SQL/DBMS-focused project in this list yet.)* -->
 
 ---
 
