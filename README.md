@@ -109,7 +109,7 @@ Predicts students’ math scores using demographic and academic attributes. This
 * **Key Features:** Interactive data visualization, hyperparameter tuning, and a user-friendly API for instant predictions.
 * **Tools:** Pandas, Scikit-learn, CatBoost, XGBoost, Flask, Streamlit, Altair.
 
----
+<!-- ---
 
 ### 🛠️ Core Tech Stack
 
@@ -119,7 +119,7 @@ Predicts students’ math scores using demographic and academic attributes. This
 
 **Web & UI:** Flask, Streamlit, HTML5/CSS3 (Modern UI Design)
 
-**Deployment:** AWS, Community Cloud, GitHub Actions
+**Deployment:** AWS, Community Cloud, GitHub Actions -->
 
 ---
 
