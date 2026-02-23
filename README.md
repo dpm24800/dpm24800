@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Dipak Pulami Magar
-## Data Science Learner | ML Enthusiast | Aspiring AI Engineer
+## Data Science, Machine Learning and Deep Learning Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dpm24800&color=0e75b6&style=flat)
 
 ---
 
 ## About Me
-I'm a passionate **Data Science, ML and DL Lerner** currently building my foundation in **Python, NumPy, Pandas, EDA, and SQL**. My goal is to grow into a skilled **AI and Machine Learning engineer**, working on projects that turn data into actionable insights.  
+I'm a passionate **Data Science, ML and DL Learner** currently building my foundation in **Python, NumPy, Pandas, EDA, and SQL**. My goal is to grow into a skilled **AI and Machine Learning engineer**, working on projects that turn data into actionable insights.  
 
 - 🌱 Currently learning **Machine Learning, Data Visualization, and advanced AI concepts**.  
 - 💬 Ask me about **Python, Data Analysis, SQL, or beginner-friendly ML concepts**.  
@@ -69,7 +69,7 @@ I'm a passionate **Data Science, ML and DL Lerner** currently building my founda
 --- 
 
 # 📂 Projects & Learning Highlights
-I am currently working on beginner-friendly **Data Science projects** to apply my skills:  
+I am currently working on beginner-friendly **Data Science, Machine Learning and Deep Learning Projects** to apply my skills:  
 
 ## Deep Learning Projects
 - **[FingerCounter](repolink-needed)**
@@ -87,14 +87,13 @@ I am currently working on beginner-friendly **Data Science projects** to apply m
 ---
 
 ## Machine Learning Projects
-- **[Employee Burnout Prdiction](#)**
+
+<!-- - **[Employee Burnout Prdiction](#)**
     - dsff
     - fdfs
 - **[Student Performance Predictor](https://github.com/dpm24800/e2e-ml-project)**  
     - Predicts students’ math scores using demographic and academic attributes with a complete ML pipeline including EDA, feature engineering, CatBoost and XGBoost training, model serialization, and deployment through a Flask API and a Streamlit UI.  
-    - Tools: Pandas, Scikit-learn, CatBoost, XGBoost, Flask, Streamlit, Altair
-
-Here is the rewritten **Projects** section for your GitHub profile. I have balanced the descriptions so they both look professional, highlighted the "Sexy UI" aspect we worked on, and organized the tools clearly.
+    - Tools: Pandas, Scikit-learn, CatBoost, XGBoost, Flask, Streamlit, Altair -->
 
 
 ### [Employee Burnout AI: Wellness Predictor](https://github.com/dpm24800/employee-wellness-predictor)
@@ -125,17 +124,17 @@ Predicts students’ math scores using demographic and academic attributes. This
 
 ---
 
-### Data Science Projects
+## Data Science Projects
 
-**[Job Market EDA](https://github.com/dpm24800/web_scrapping-data_analysis)**
+## [Job Market EDA](https://github.com/dpm24800/web_scrapping-data_analysis)**
 Cleans and analyzes scraped job market data and produces visual insights using exploratory data analysis.
 Tools: Pandas, Matplotlib, Seaborn
 
 ---
 
-### Web Scrapping Projects
+## Web Scrapping Projects
 
-**[Web Scraping & Automation](https://github.com/dpm24800/top-jobs-scraper)**
+### [Top Jobs Scraper](https://github.com/dpm24800/top-jobs-scraper)**
 Automated web scraping pipeline that collects job listings, removes duplicates, sorts records, and exports results to CSV with scheduled execution.
 Tools: Python, Selenium, GitHub Actions
 
@@ -147,25 +146,25 @@ Tools: Python, Selenium, GitHub Actions
 
 ---
 
-### Python Projects
+## Python Projects
 
-**[project-scaffolder](https://github.com/dpm24800/project-scaffolder)**
+### [project-scaffolder](https://github.com/dpm24800/project-scaffolder)
 CLI tool that generates project folder structures from tree-style text files and is published on PyPI for fast and consistent project setup.
 Tools: Python, Click, setuptools
 
-**[YouTube Playlist Exporter](https://github.com/dpm24800/youtube-playlist-exporter)**
+### [YouTube Playlist Exporter](https://github.com/dpm24800/youtube-playlist-exporter)
 Command-line tool to extract and export YouTube playlist metadata for further processing.
 Tools: Python, yt-dlp
 
----
+<!-- ---
 
-### Backend Projects
+## Backend Projects
 
 *(No separate backend-only project in this list yet.)*
 
 ---
 
-### Front End Projects
+## Frontend Projects
 
 **[Text Files Merger](https://github.com/dpm24800/text-files-merger)**
 Client-side web application that merges multiple TXT files directly in the browser without any installation.
@@ -173,7 +172,7 @@ Tools: HTML, CSS, JavaScript
 
 **[Image Slider UI](https://github.com/dpm24800/image-slider)**
 TikTok-style image slider interface focused on smooth transitions and modern UI interaction.
-Tools: HTML, CSS, JavaScript
+Tools: HTML, CSS, JavaScript -->
 
 
 
